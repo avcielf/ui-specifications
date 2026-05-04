@@ -3,7 +3,10 @@
 ## Overview
 This document defines the user interface requirements and behavior for the User Management screen. It is intended for developers who will implement the frontend.
 
----
+## Assumptions
+- This is a web-based admin panel
+- Data is provided via REST API
+- Authentication is already handled
 
 ## Purpose
 The User Management screen enables administrators to:
